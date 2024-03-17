@@ -9,5 +9,7 @@
 ```
 
 ## Pictures
-![image info](./screenshot.png)
+| | |
+|:-------------------------:|:-------------------------:|
+|![image info](./screenshot1.png)|![image info](./screenshot2.png)|
 
